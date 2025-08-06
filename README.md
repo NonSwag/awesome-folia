@@ -73,10 +73,10 @@ Here is a list of plugins that actively support Folia
 
 | Name          | Source                                                | Download                                                     | Description                                                                                        |
 |---------------|-------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| PacketEvents  | [GitHub](https://github.com/retrooper/packetevents)   | [Modrinth](https://modrinth.com/project/HYKaKraK)            | A powerful networking library for Minecraft packet processing and manipulation.                    |
 | BlueSlimeCore | [GitHub](https://github.com/SirBlobman/BlueSlimeCore) | [Hangar](https://hangar.papermc.io/SirBlobman/BlueSlimeCore) | A useful library plugin that includes lots of helpful code and API features.                       |
 | FurnitureLib  | [GitHub](https://github.com/Ste3et/FurnitureLib)      | [Modrinth](https://modrinth.com/project/DqcgUFzu)            | FurnitureLib is a library for Spigot Servers to handle 3d modeling with armor-stands over packets. |
 | Item-NBT-API  | [GitHub](https://github.com/tr7zw/Item-NBT-API)       | [Modrinth](https://modrinth.com/project/nfGCP9fk)            | Add custom NBT tags to Items/Tiles/Entities without NMS!                                           |
+| PacketEvents  | [GitHub](https://github.com/retrooper/packetevents)   | [Modrinth](https://modrinth.com/project/HYKaKraK)            | A powerful networking library for Minecraft packet processing and manipulation.                    |
 
 ## Find more Folia plugins
 
