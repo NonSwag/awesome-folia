@@ -10,3 +10,6 @@ However, many plugins are designed to run on a single thread and, as a result, w
 This list aims to highlight plugins and projects specifically made, optimized, or targeted for Folia servers,
 developers, and administrators.
 The goal is to bring attention to both these projects and to Folia itself.
+
+_This list is inspired by [BlockhostOfficial/folia-plugins](https://github.com/BlockhostOfficial/folia-plugins),
+which has been unmaintained for a while._
