@@ -1,6 +1,6 @@
 # Awesome Folia
 
-Folia is a fork of Paper that divides the world into separate regions, each running on its own thread.
+[Folia](https://papermc.io/software/folia) is a fork of [Paper](https://papermc.io/software/paper) that divides the world into separate regions, each running on its own thread.
 This significantly improves performance by utilizing more CPU cores.
 Since a standard Minecraft world can only use one thread, Folia allows for much larger worlds with more players, making it perfect for big servers like SMPs or SkyBlock.
 
