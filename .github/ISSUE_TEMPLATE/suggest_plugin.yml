@@ -1,7 +1,6 @@
 name: Suggest a plugin
 description: Suggest a folia compatible plugin
 title: "[Suggestion] "
-type: feature
 labels:
   - enhancement
 assignees:
