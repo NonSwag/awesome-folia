@@ -19,6 +19,19 @@ which has been unmaintained for a while._
 
 ---
 
+## Alternative Plugins
+
+Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
+that I deem mentionable.
+
+| Plugin                                         | Alternative      | Source                                                  | Download                                                         | 
+|------------------------------------------------|------------------|---------------------------------------------------------|------------------------------------------------------------------|
+| [EssentialsX](https://essentialsx.net/)        | Tweaks           | [GitHub](https://github.com/TheNextLvl-net/tweaks)      | [Modrinth](https://modrinth.com/project/HLkJsjy0)                |
+| [Multiverse-Core](https://mvplugins.org/core/) | Worlds           | [GitHub](https://github.com/TheNextLvl-net/worlds)      | [Modrinth](https://modrinth.com/project/gBIw3Gvy)                |
+| [Vault](https://github.com/milkbowl/Vault)     | ServiceIO        | [GitHub](https://github.com/TheNextLvl-net/service-io)  | [Modrinth](https://modrinth.com/project/MNPyHOe7)                |
+| [WorldEdit](https://enginehub.org/worldedit)   | WorldEdit-Folia  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia)  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia/releases)  |
+| [WorldGuard](https://enginehub.org/worldguard) | WorldGuard-Folia | [GitHub](https://github.com/Euphillya/WorldGuard-Folia) | [GitHub](https://github.com/Euphillya/WorldGuard-Folia/releases) |
+
 ## Plugins
 
 Here is a list of plugins that actively support Folia
@@ -135,19 +148,6 @@ Here is a list of plugins that actively support Folia
 | FreedomChat      | [GitHub](https://github.com/ocelotpotpie/FreedomChat)        | [Modrinth](https://modrinth.com/project/MubyTbnA)    | ✅        | The best paper chat report disabler this side of the Mississippi                                  |
 | PistonChat       | [GitHub](https://github.com/AlexProgrammerDE/PistonChat)     | [Modrinth](https://modrinth.com/project/aHsf1OcA)    | ✅        | Advanced chat plugin for survival/anarchy servers.                                                |
 | PrefiX           | [GitLab](https://gitlab.com/martijnpu/prefix)                | [Hangar](https://hangar.papermc.io/martijnpu/PrefiX) | ✅        | User friendly tag manager for LuckPerms                                                           |
-
-## Alternative Plugins
-
-Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
-that I deem mentionable.
-
-| Plugin                                         | Alternative      | Source                                                  | Download                                                         | 
-|------------------------------------------------|------------------|---------------------------------------------------------|------------------------------------------------------------------|
-| [EssentialsX](https://essentialsx.net/)        | Tweaks           | [GitHub](https://github.com/TheNextLvl-net/tweaks)      | [Modrinth](https://modrinth.com/project/HLkJsjy0)                |
-| [Multiverse-Core](https://mvplugins.org/core/) | Worlds           | [GitHub](https://github.com/TheNextLvl-net/worlds)      | [Modrinth](https://modrinth.com/project/gBIw3Gvy)                |
-| [Vault](https://github.com/milkbowl/Vault)     | ServiceIO        | [GitHub](https://github.com/TheNextLvl-net/service-io)  | [Modrinth](https://modrinth.com/project/MNPyHOe7)                |
-| [WorldEdit](https://enginehub.org/worldedit)   | WorldEdit-Folia  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia)  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia/releases)  |
-| [WorldGuard](https://enginehub.org/worldguard) | WorldGuard-Folia | [GitHub](https://github.com/Euphillya/WorldGuard-Folia) | [GitHub](https://github.com/Euphillya/WorldGuard-Folia/releases) |
 
 ## Libraries
 
