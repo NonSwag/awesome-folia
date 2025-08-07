@@ -83,6 +83,43 @@ Here is a list of plugins that actively support Folia
 | Vault-Folia   | [GitHub](https://github.com/SirBlobman/Vault-Folia)        | [GitHub](https://github.com/SirBlobman/Vault-Folia/releases)     | ❌        | A fork of Vault that adds Folia support.                                                                             |
 | VaultUnlocked | [GitHub](https://github.com/TheNewEconomy/VaultUnlocked)   | [Modrinth](https://modrinth.com/project/ayRaM8J7)                | ❌        | A PR-friendly version of Vault; Where PRs are actually accepted.                                                     |
 
+### Features
+
+| Name                | Source                                                      | Download                                                                             | Official | Description |
+|---------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------|----------|-------------|
+| AdvancedTeleport    | [GitHub](https://github.com/Niestrat99/AT-Rewritten)        | [Modrinth](https://modrinth.com/project/BQFzmxKU)                                    | ✅        |             |
+| AntiHealthIndicator | [GitHub](https://github.com/Bram1903/AntiHealthIndicator)   | [Modrinth](https://modrinth.com/project/1LeLFMUh)                                    | ✅        |             |
+| ArmorStandEditor    | [GitHub](https://github.com/Wolfieheart/ArmorStandEditor)   | [Modrinth](https://modrinth.com/project/oIBGjZ77)                                    | ❌        |             |
+| AutoTreeChop        | [GitHub](https://github.com/milkteamc/AutoTreeChop)         | [Modrinth](https://modrinth.com/project/pwCm0TtE)                                    | ✅        |             |
+| BlockCompressor     | [GitHub](https://github.com/SirBlobman/Block-Compressor/)   | [SpigotMC](https://www.spigotmc.org/resources/block-compressor.88448/)               | ✅        |             |
+| BetterRTP           | [GitHub](https://github.com/RonanPlugins/BetterRTP)         | [SpigotMC](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) | ✅        |             |
+| BlockLocker         | [GitHub](https://github.com/rutgerkok/BlockLocker)          | [Hangar](https://hangar.papermc.io/Rutger/BlockLocker)                               | ✅        |             |
+| Bookshelf           | [GitHub](https://github.com/LOOHP/Bookshelf)                | [Modrinth](https://modrinth.com/project/VUkUwfUG)                                    | ✅        |             |
+| CombatLogX          | [GitHub](https://github.com/SirBlobman/CombatLogX)          | [SpigotMC](https://www.spigotmc.org/resources/combatlogx.31689/)                     | ✅        |             |
+| CooldownX           | [GitHub](https://github.com/SirBlobman/CooldownsX)          | [SpigotMC](https://www.spigotmc.org/resources/cooldownsx.41981/)                     | ✅        |             |
+| Craftorithm         | [GitHub](https://github.com/YufiriaMazenta/Craftorithm)     | [Modrinth](https://modrinth.com/project/mttZgFDu)                                    | ✅        |             |
+| DiscoArmor          | [GitHub](https://github.com/SirBlobman/DiscoArmor)          | [Hangar](https://hangar.papermc.io/SirBlobman/DiscoArmor)                            | ✅        |             |
+| Essentials-Folia    | [GitHub](https://github.com/Euphillya/Essentials-Folia)     | [GitHub](https://github.com/Euphillya/Essentials-Folia/releases)                     | ❌        |             |
+| Essence             | [GitHub](https://github.com/Lewmc/Essence)                  | [Modrinth](https://modrinth.com/project/JQKAIyi1)                                    | ✅        |             |
+| Tweaks              | [GitHub](https://github.com/TheNextLvl-net/tweaks)          | [Modrinth](https://modrinth.com/project/HLkJsjy0)                                    | ✅        |             |
+| ExplodeAny          | [GitHub](https://github.com/GuilleX7/ExplodeAny)            | [Modrinth](https://modrinth.com/project/b3oVwYdE)                                    | ✅        |             |
+| FallAvert           | [GitHub](https://github.com/SirBlobman/FallAvert)           | [SpigotMC](https://www.spigotmc.org/resources/fallavert.40289/)                      | ✅        |             |
+| FlagsH              | [GitHub](https://github.com/HydrolienF/FlagsH)              | [Modrinth](https://modrinth.com/project/aUr0vpz1)                                    | ✅        |             |
+| FramedImage         | [GitHub](https://github.com/JNNGL/framedImage)              | [Modrinth](https://modrinth.com/project/bOMWOhGx)                                    | ✅        |             |
+| GriefPrevention     | [GitHub](https://github.com/LemonGamingLtd/GriefPrevention) | [Modrinth](https://modrinth.com/project/O4o4mKaq)                                    | ✅        |             |
+| GSit                | [GitHub](https://github.com/Gecolay/GSit)                   | [Hangar](https://hangar.papermc.io/Gecolay/GSit)                                     | ✅        |             |
+| HeadDrop            | [GitHub](https://github.com/RRS-9747/HeadDrop)              | [Modrinth](https://modrinth.com/project/7RaS2huo)                                    | ✅        |             |
+| HuskHomes           | [GitHub](https://github.com/WiIIiam278/HuskHomes)           | [Modrinth](https://modrinth.com/project/J6U9o3JG)                                    | ✅        |             |
+| mcMMO               | [GitHub](https://github.com/mcMMO-Dev/mcMMO)                | [Polymart](https://polymart.org/product/727/mcmmo)                                   | ✅        |             |
+| PvPManager          | [GitHub](https://github.com/ChanceSD/PvPManager)            | [Modrinth](https://modrinth.com/project/1Ffl2uIq)                                    | ✅        |             |
+| Residence           | [GitHub](https://github.com/Zrips/Residence)                | [Homepage](https://zrips.net/Residence/)                                             | ❌        |             |
+| SimpleClaimSystem   | [GitHub](https://github.com/Xyness/SimpleClaimSystem)       | [Modrinth](https://modrinth.com/project/80Ke0mYG)                                    | ✅        |             |
+| SuperHarvest        | [GitHub](https://github.com/BrilliantTeam/SuperHarvest)     | [Modrinth](https://modrinth.com/project/9GdBr4p2)                                    | ✅        |             |
+| Towny               | [GitHub](https://github.com/TownyAdvanced/Towny)            | [Modrinth](https://modrinth.com/project/Vs77PB2W)                                    | ✅        |             |
+| TownyWaypoints      | [GitHub](https://github.com/Mvndi/TownyWaypoints)           | [Modrinth](https://modrinth.com/project/alsDiPbN)                                    | ✅        |             |
+| zEssentials         | [GitHub](https://github.com/Maxlego08/zEssentials)          | [Modrinth](https://modrinth.com/project/B8ICgd4I)                                    | ✅        |             |
+| zMenus              | [GitHub](https://github.com/Maxlego08/zMenu)                | [Modrinth](https://modrinth.com/project/XPQ42u1g)                                    | ✅        |             |
+
 ## Alternative Plugins
 
 Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
