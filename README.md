@@ -69,6 +69,20 @@ Here is a list of plugins that actively support Folia
 | NoCheatPlus            | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Jenkins](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) | ❌        | Anti-cheating plugin for Minecraft (1.5-1.21, Bukkit/Spigot)                                                                              |
 | Panilla                | [GitHub](https://github.com/ds58/Panilla)                    | [SpigotMC](https://www.spigotmc.org/resources/65694/)                            | ✅        | Prevent abusive NBT and crash packets on a Minecraft server                                                                               |
 
+### Economy
+
+| Name          | Source                                                     | Download                                                         | Official | Description                                                                                                          |
+|---------------|------------------------------------------------------------|------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
+| ChestShop3    | [GitHub](https://github.com/ChestShop-authors/ChestShop-3) | [Modrinth](https://modrinth.com/project/QI2CAnAl)                | ✅        | A simple, yet very powerful system for making physical shops using signs and chests!                                 |
+| Economist     | [GitHub](https://github.com/TheNextLvl-net/economist)      | [Modrinth](https://modrinth.com/project/VQ63EMAa)                | ✅        | The next generation economy plugin with database and multiserver support                                             |
+| JobsReborn    | [GitHub](https://github.com/Zrips/Jobs)                    | [SpigotMC](https://www.spigotmc.org/resources/jobs-reborn.4216/) | ✅        | A fully configurable plugin that allows you to get paid for breaking, placing, killing, fishing...                   |
+| LushRewards   | [GitHub](https://github.com/OakLoaf/LushRewards)           | [Modrinth](https://modrinth.com/project/djC8I9ui)                | ✅        | LushRewards is a hugely configurable Rewards plugin that will help you reward your players for playing on the server |
+| ServiceIO     | [GitHub](https://github.com/TheNextLvl-net/service-io)     | [Modrinth](https://modrinth.com/project/MNPyHOe7)                | ✅        | A Vault drop-in replacement with a new and modern API                                                                |
+| TheNewEconomy | [GitHub](https://github.com/TheNewEconomy/EconomyCore)     | [Modrinth](https://modrinth.com/project/bZ4eSWf0)                | ✅        | The economy plugin for server owners that want more out of their economy.                                            |
+| Vault         | [GitHub](https://github.com/Geolykt/Vault)                 | [GitHub](https://github.com/Geolykt/Vault/releases)              | ❌        | Vault of common APIs for Bukkit Plugins                                                                              |
+| Vault-Folia   | [GitHub](https://github.com/SirBlobman/Vault-Folia)        | [GitHub](https://github.com/SirBlobman/Vault-Folia/releases)     | ❌        | A fork of Vault that adds Folia support.                                                                             |
+| VaultUnlocked | [GitHub](https://github.com/TheNewEconomy/VaultUnlocked)   | [Modrinth](https://modrinth.com/project/ayRaM8J7)                | ❌        | A PR-friendly version of Vault; Where PRs are actually accepted.                                                     |
+
 ## Alternative Plugins
 
 Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
