@@ -1,0 +1,49 @@
+name: Suggest a plugin
+description: Suggest a folia compatible plugin
+type: feature
+assignees:
+  - NonSwag
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in this project and your time in submitting a suggestion!
+        Fill out the following form to your best ability, and we'll get back to you as soon as possible.
+        For anything else you can reach me on my [Discord Server](https://thenextlvl.net/discord).
+
+  - type: input
+    attributes:
+      label: The name of the plugin
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Sourcecode URL
+      description: GitHub, GitLab, Bitbucket, etc.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Download URL
+      description: Modrinth, Hangar, CurseForge, SpigotMC, etc..
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Description of the plugin
+      description: A sentence or two describing the plugin
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Please answer truthfully to the following questions.
+      options:
+        - label: I am the author of the plugin.
+        - label: The given URLs are valid and point to the plugin's actual sourcecode and download.
+        - lable: The plugin is compatible with the latest version of Folia.
+          required: true
