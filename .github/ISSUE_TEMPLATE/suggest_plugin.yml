@@ -35,8 +35,6 @@ body:
     attributes:
       label: Description of the plugin
       description: A sentence or two describing the plugin
-    validations:
-      required: true
 
   - type: checkboxes
     attributes:
