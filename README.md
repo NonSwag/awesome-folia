@@ -69,6 +69,19 @@ Here is a list of plugins that actively support Folia
 | NoCheatPlus            | [GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [Jenkins](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) | ❌        | Anti-cheating plugin for Minecraft (1.5-1.21, Bukkit/Spigot)                                                                              |
 | Panilla                | [GitHub](https://github.com/ds58/Panilla)                    | [SpigotMC](https://www.spigotmc.org/resources/65694/)                            | ✅        | Prevent abusive NBT and crash packets on a Minecraft server                                                                               |
 
+## Alternative Plugins
+
+Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
+that I deem mentionable.
+
+| Plugin                                         | Alternative      | Source                                                  | Download                                                         | 
+|------------------------------------------------|------------------|---------------------------------------------------------|------------------------------------------------------------------|
+| [EssentialsX](https://essentialsx.net/)        | Tweaks           | [GitHub](https://github.com/TheNextLvl-net/tweaks)      | [Modrinth](https://modrinth.com/project/HLkJsjy0)                |
+| [Multiverse-Core](https://mvplugins.org/core/) | Worlds           | [GitHub](https://github.com/TheNextLvl-net/worlds)      | [Modrinth](https://modrinth.com/project/gBIw3Gvy)                |
+| [Vault](https://github.com/milkbowl/Vault)     | ServiceIO        | [GitHub](https://github.com/TheNextLvl-net/service-io)  | [Modrinth](https://modrinth.com/project/MNPyHOe7)                |
+| [WorldEdit](https://enginehub.org/worldedit)   | WorldEdit-Folia  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia)  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia/releases)  |
+| [WorldGuard](https://enginehub.org/worldguard) | WorldGuard-Folia | [GitHub](https://github.com/Euphillya/WorldGuard-Folia) | [GitHub](https://github.com/Euphillya/WorldGuard-Folia/releases) |
+
 ## Libraries
 
 | Name          | Source                                                | Download                                                     | Description                                                                                        |
