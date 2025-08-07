@@ -120,6 +120,19 @@ Here is a list of plugins that actively support Folia
 | zEssentials         | [GitHub](https://github.com/Maxlego08/zEssentials)          | [Modrinth](https://modrinth.com/project/B8ICgd4I)                                    | ✅        | Ultimate Essentials Plugin to Revolutionize Your Minecraft Server!                                                         |
 | zMenus              | [GitHub](https://github.com/Maxlego08/zMenu)                | [Modrinth](https://modrinth.com/project/XPQ42u1g)                                    | ✅        | The best inventory plugin! Online editor available!                                                                        |
 
+### Chat
+
+| Name             | Source                                                       | Download                                             | Official | Description                                                                                       |
+|------------------|--------------------------------------------------------------|------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------|
+| AnnouncerPlus    | [GitHub](https://github.com/jpenilla/AnnouncerPlus)          | [Modrinth](https://modrinth.com/project/g8XCro6n)    | ✅        | Custom Join/Quit messages and auto-broadcasts! Text animations, Boss Bars, Titles. and much more! |
+| CleanPing        | [GitHub](https://github.com/frafol/CleanPing/)               | [Modrinth](https://modrinth.com/project/Vt6LzrYd)    | ✅        | CleanPing is an advanced /ping plugin                                                             |
+| CleanStaffChat   | [GitHub](https://github.com/frafol/CleanStaffChat/)          | [Modrinth](https://modrinth.com/project/Mvc3WDLr)    | ✅        | Clean StaffChat is a basic StaffChat plugin                                                       |
+| CommandWhitelist | [GitHub](https://github.com/YouHaveTrouble/CommandWhitelist) | [Modrinth](https://modrinth.com/project/NnzdhiPb)    | ✅        | You decide what commands players can use or tab complete on your server!                          |
+| Commander        | [GitHub](https://github.com/TheNextLvl-net/commander)        | [Modrinth](https://modrinth.com/project/USLuwMUi)    | ✅        | Remove, hide or change or query permissions of commands                                           |
+| FreedomChat      | [GitHub](https://github.com/ocelotpotpie/FreedomChat)        | [Modrinth](https://modrinth.com/project/MubyTbnA)    | ✅        | The best paper chat report disabler this side of the Mississippi                                  |
+| PistonChat       | [GitHub](https://github.com/AlexProgrammerDE/PistonChat)     | [Modrinth](https://modrinth.com/project/aHsf1OcA)    | ✅        | Advanced chat plugin for survival/anarchy servers.                                                |
+| PrefiX           | [GitLab](https://gitlab.com/martijnpu/prefix)                | [Hangar](https://hangar.papermc.io/martijnpu/PrefiX) | ✅        | User friendly tag manager for LuckPerms                                                           |
+
 ## Alternative Plugins
 
 Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
