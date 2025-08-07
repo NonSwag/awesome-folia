@@ -12,7 +12,7 @@ developers, and administrators.
 The goal is to bring attention to both these projects and to Folia itself.
 
 > [!TIP]
-> You can suggest new plugins [here](https://github.com/NonSwag/awesome-folia/issues/new?template=suggest_plugin.yml), no need for a pullrequest.
+> You can suggest new plugins [here](https://github.com/NonSwag/awesome-folia/issues/new?template=suggest_plugin.yml), no need for a pull request.
 
 _This list is inspired by [BlockhostOfficial/folia-plugins](https://github.com/BlockhostOfficial/folia-plugins),
 which has been unmaintained for a while._
