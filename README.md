@@ -11,12 +11,12 @@ This list aims to highlight plugins and projects specifically made, optimized, o
 developers, and administrators.
 The goal is to bring attention to both these projects and to Folia itself.
 
+_This list is inspired by [BlockhostOfficial/folia-plugins](https://github.com/BlockhostOfficial/folia-plugins),
+which has been unmaintained for a while._
+
 > [!TIP]
 > You want to add, change, or remove something from this list?  
 > No need for a pull request, just open an issue [here](https://github.com/NonSwag/awesome-folia/issues/new/choose).
-
-_This list is inspired by [BlockhostOfficial/folia-plugins](https://github.com/BlockhostOfficial/folia-plugins),
-which has been unmaintained for a while._
 
 > [!NOTE]
 > Plugins marked in **bold** are my personal best-picks and recommendations
