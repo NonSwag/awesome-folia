@@ -1,0 +1,65 @@
+name: Request removal of an entry
+description: Ask to remove a plugin
+labels:
+  - removal
+assignees:
+  - NonSwag
+title: "Removal Request: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the list accurate and healthy.
+        Please provide as much detail as possible so we can review quickly.
+
+  - type: input
+    attributes:
+      label: Name of the plugin
+      description: The exact name as it appears in the list
+      placeholder: SuperFunPlugin
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Link to the listed entry
+      description: URL to the source code or download page as it appears in the list
+      placeholder: https://modrinth.com/project/example or https://github.com/org/repo
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Reason for removal
+      description: Select all that apply
+      options:
+        - label: Dead or invalid link
+        - label: Not compatible with current Folia versions
+        - label: Project appears abandoned/unmaintained
+        - label: Duplicate entry
+        - label: Malware or otherwise harmful content
+        - label: I do not want it to be listed (author only)
+        - label: Other (explain below)
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Details and evidence
+      description: Provide evidence, logs, issues, screenshots, or references supporting the removal
+      placeholder: Links to issues, maintainers' statements, error logs, or archive snapshots
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Anything else we should know
+
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      options:
+        - label: I am the author of the plugin.
+        - label: I have made a good-faith effort to verify the issue before requesting removal.
+          required: true
