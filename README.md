@@ -29,13 +29,16 @@ which has been unmaintained for a while._
 Here is a list of alternatives or forks of well-known plugins that officially do not support Folia,
 that I deem mentionable.
 
-| Plugin                                         | Alternative      | Source                                                  | Download                                                         | 
-|------------------------------------------------|------------------|---------------------------------------------------------|------------------------------------------------------------------|
-| [EssentialsX](https://essentialsx.net/)        | Tweaks           | [GitHub](https://github.com/TheNextLvl-net/tweaks)      | [Modrinth](https://modrinth.com/project/HLkJsjy0)                |
-| [Multiverse-Core](https://mvplugins.org/core/) | Worlds           | [GitHub](https://github.com/TheNextLvl-net/worlds)      | [Modrinth](https://modrinth.com/project/gBIw3Gvy)                |
-| [Vault](https://github.com/milkbowl/Vault)     | ServiceIO        | [GitHub](https://github.com/TheNextLvl-net/service-io)  | [Modrinth](https://modrinth.com/project/MNPyHOe7)                |
-| [WorldEdit](https://enginehub.org/worldedit)   | WorldEdit-Folia  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia)  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia/releases)  |
-| [WorldGuard](https://enginehub.org/worldguard) | WorldGuard-Folia | [GitHub](https://github.com/Euphillya/WorldGuard-Folia) | [GitHub](https://github.com/Euphillya/WorldGuard-Folia/releases) |
+| Plugin                                         | Alternative      | Source                                                     | Download                                                         | 
+|------------------------------------------------|------------------|------------------------------------------------------------|------------------------------------------------------------------|
+| [EssentialsX](https://essentialsx.net/)        | Essentials-Folia | [GitHub](https://github.com/Euphillya/Essentials-Folia)    | [GitHub](https://github.com/Euphillya/Essentials-Folia/releases) |
+|                                                | **Tweaks**       | [GitHub](https://github.com/TheNextLvl-net/tweaks)         | [Modrinth](https://modrinth.com/project/HLkJsjy0)                |
+| [Multiverse-Core](https://mvplugins.org/core/) | MoreFoWorld      | [GitHub](https://github.com/Folia-Inquisitors/MoreFoWorld) | [Modrinth](https://modrinth.com/project/saPdoNQI)                |
+|                                                | **Worlds**       | [GitHub](https://github.com/TheNextLvl-net/worlds)         | [Modrinth](https://modrinth.com/project/gBIw3Gvy)                |
+| [Vault](https://github.com/milkbowl/Vault)     | **ServiceIO**    | [GitHub](https://github.com/TheNextLvl-net/service-io)     | [Modrinth](https://modrinth.com/project/MNPyHOe7)                |
+|                                                | VaultUnlocked    | [GitHub](https://github.com/TheNewEconomy/VaultUnlocked)   | [Modrinth](https://modrinth.com/project/ayRaM8J7)                |
+| [WorldEdit](https://enginehub.org/worldedit)   | WorldEdit-Folia  | [GitHub](https://github.com/Euphillya/WorldEdit-Folia)     | [GitHub](https://github.com/Euphillya/WorldEdit-Folia/releases)  |
+| [WorldGuard](https://enginehub.org/worldguard) | WorldGuard-Folia | [GitHub](https://github.com/Euphillya/WorldGuard-Folia)    | [GitHub](https://github.com/Euphillya/WorldGuard-Folia/releases) |
 
 ## Plugins
 
