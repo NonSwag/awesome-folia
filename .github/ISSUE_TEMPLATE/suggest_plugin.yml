@@ -4,6 +4,7 @@ labels:
   - enhancement
 assignees:
   - NonSwag
+title: "Suggestion: "
 body:
   - type: markdown
     attributes:
@@ -21,6 +22,7 @@ body:
     attributes:
       label: Sourcecode URL
       description: GitHub, GitLab, Bitbucket, etc.
+      placeholder: https://github.com/org/repo
     validations:
       required: true
 
@@ -28,6 +30,7 @@ body:
     attributes:
       label: Download URL
       description: Modrinth, Hangar, CurseForge, SpigotMC, etc..
+      placeholder: https://modrinth.com/project/example
     validations:
       required: true
 
@@ -35,6 +38,7 @@ body:
     attributes:
       label: Description of the plugin
       description: A sentence or two describing the plugin
+      placeholder: A plugin that does something really awesome
 
   - type: checkboxes
     attributes:
