@@ -9,8 +9,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping keep the list accurate and healthy.
-        Please provide as much detail as possible so we can review quickly.
+        Thanks for your interest in keeping the list accurate and healthy.
+        Please provide as much detail as possible so we can review your request quickly.
 
   - type: input
     attributes:
