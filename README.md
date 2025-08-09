@@ -12,7 +12,7 @@ developers, and administrators.
 The goal is to bring attention to both these projects and to Folia itself.
 
 > [!TIP]
-> You want to add, change, or remove something from this list?
+> You want to add, change, or remove something from this list?  
 > No need for a pull request, just open an issue [here](https://github.com/NonSwag/awesome-folia/issues/new/choose)
 
 _This list is inspired by [BlockhostOfficial/folia-plugins](https://github.com/BlockhostOfficial/folia-plugins),
