@@ -47,5 +47,6 @@ body:
       options:
         - label: I am the author of the plugin.
         - label: The given URLs are valid and point to the plugin's actual sourcecode and download.
+          required: true
         - label: The plugin is compatible with the latest version of Folia.
           required: true
