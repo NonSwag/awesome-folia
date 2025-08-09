@@ -1,0 +1,81 @@
+name: Request update/change of an entry
+description: Ask to update the information of a listed plugin (URLs, name, description or category)
+labels:
+  - update
+assignees:
+  - NonSwag
+title: "Update Request: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in this project and your time in submitting an update request!
+        Fill out the following form to your best ability, and we'll get back to you as soon as possible.
+
+  - type: input
+    attributes:
+      label: Name of the plugin
+      description: The exact name as it appears in the list
+      placeholder: SuperFunPlugin
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Link to the listed entry
+      description: URL to the source code or download page as it appears in the list
+      placeholder: https://modrinth.com/project/example or https://github.com/org/repo
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: What needs to be updated?
+      description: Select all that apply
+      options:
+        - label: Source code URL is outdated/incorrect
+        - label: Download URL is outdated/incorrect
+        - label: Plugin has been renamed
+        - label: Description or categorization needs correction (explain below)
+        - label: Other (explain below)
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: New source code URL (if applicable)
+      description: GitHub, GitLab, Bitbucket, etc.
+      placeholder: https://github.com/org/repo
+
+  - type: input
+    attributes:
+      label: New download URL (if applicable)
+      description: Modrinth, Hangar, CurseForge, SpigotMC, etc.
+      placeholder: https://modrinth.com/project/example
+
+  - type: input
+    attributes:
+      label: New plugin name (if applicable)
+      placeholder: SuperFunPlugin-Continued
+
+  - type: textarea
+    attributes:
+      label: Details and evidence
+      description: Provide evidence, links, maintainer notes, release notes, or references supporting the requested update
+      placeholder: Links to announcements, commit references, release notes, issue comments, or archive snapshots
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Anything else we should know
+
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Please answer truthfully to the following questions.
+      options:
+        - label: I am the author of the plugin.
+        - label: The new information/URLs are correct and up-to-date.
+          required: true
