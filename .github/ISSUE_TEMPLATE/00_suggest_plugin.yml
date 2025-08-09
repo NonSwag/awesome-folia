@@ -48,6 +48,11 @@ body:
       description: A sentence or two describing the plugin
       placeholder: A plugin that does something really awesome
 
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Anything else we should know
+
   - type: checkboxes
     attributes:
       label: Checklist
