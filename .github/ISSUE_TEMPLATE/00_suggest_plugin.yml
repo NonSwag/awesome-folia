@@ -36,6 +36,14 @@ body:
 
   - type: input
     attributes:
+      label: Category
+      description: The category the plugin fits best in
+      placeholder: Economy
+    validations:
+      required: true
+
+  - type: input
+    attributes:
       label: Description of the plugin
       description: A sentence or two describing the plugin
       placeholder: A plugin that does something really awesome
